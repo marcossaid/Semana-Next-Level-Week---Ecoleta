@@ -47,18 +47,18 @@
     
 1.  **SEJA FELIZ**
 
-    O SERVER está rodando em `http://localhost:3333`!
-    O SITE está rodando em `http://localhost:3000`!
-    O APP está utilizando o EXPO
+    O SERVER está rodando em `http://localhost:3333`! <br/>
+    O SITE está rodando em `http://localhost:3000`! <br/>
+    O APP está utilizando o EXPO <br/>
 
 ## 🧐 O que tem dentro?
-  Tem o Servidor desenvolvido em Node, com express, knex, axios, sqlite.
-  WebSite desenvolvido com ReactJS, com expo.
-  App desenvolvido com React Native
+  Tem o Servidor desenvolvido em Node, com express, knex, axios, sqlite.<br/>
+  WebSite desenvolvido com ReactJS, com expo.<br/>
+  App desenvolvido com React Native<br/>
 
 ## 🔗 Alguns links
-Se você gostou do conteúdo acesse https://rocketseat.com.br/ 
-Se inscreva no canal da Rocket Seat https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg
+Se você gostou do conteúdo acesse https://rocketseat.com.br/ <br/>
+Se inscreva no canal da Rocket Seat https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg <br/>
 
 # Participante da Semana NLW:
 Marcos Said
